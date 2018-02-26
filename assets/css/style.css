@@ -139,8 +139,8 @@ p {
     padding: 40px;
     align-items: center;
     justify-content: center;
+    overflow: auto;
     float: right;
-    clear: both;
   
  }
  .icon {
