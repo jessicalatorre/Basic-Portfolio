@@ -144,18 +144,30 @@ p {
   border: solid 2px lightgrey;
  }
 
-    /* width: 270px;
-    padding: 40px;
-    align-items: center;
-    justify-content: center;
-    overflow: auto;
-    float: right;
-    background: white;
-    border: solid 2px lightgrey; */
  }
-.auth-image2 {
+.auth-image1 {
  float: left;
+ width:100px;
 }
+
+.auth-image2 {
+  float: left;
+  width:275px;
+ }
+ .auth-image3 {
+  float: left;
+  width:275px;
+ }
+ .auth-image4 {
+  float: left;
+  width:275px;
+ }
+ .auth-image5 {
+  float: left;
+  width:275px;
+ }
+/* unsure about how to position images tried editing classes to have individual names auth-image1, auth-image2, etc, 
+/* so I can format them separately. But still still need to keep working */
 
 .image-text {
   position: absolute;
