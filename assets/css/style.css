@@ -148,23 +148,28 @@ p {
 .auth-image1 {
  float: left;
  width:100px;
+ border:#dddddd;
 }
 
 .auth-image2 {
   float: left;
   width:275px;
+  border:#dddddd;
  }
  .auth-image3 {
   float: left;
   width:275px;
+  border:#dddddd;
  }
  .auth-image4 {
   float: left;
   width:275px;
+  border:#dddddd;
  }
  .auth-image5 {
   float: left;
   width:275px;
+  border:#dddddd;
  }
 /* unsure about how to position images tried editing classes to have individual names auth-image1, auth-image2, etc, 
 /* so I can format them separately. But still still need to keep working */
